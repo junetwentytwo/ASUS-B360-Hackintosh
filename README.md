@@ -7,7 +7,7 @@
     内存：ADATA DDR4 2666 8GBx2 XPG-Z1
     
     固态：Samsung SSD 970 EVO 250GB
-   
+       
     硬盘：Seagate 1TB 64MB 7200RPM ST1000DM010
     
     集成显卡：Intel UHD Graphics 630
@@ -32,10 +32,10 @@
 * Boot/Secure Boot/ OS Type - Other OS
 * (Optional)Ai Tweaker/Ai Overclock Tuner - XMP
 ## 屏幕截图
-![image](https://github.com/junetwentytwo/ASUS-B360-H-Hackintosh/blob/master/images/IMG_01.jpg)
-![image](https://github.com/junetwentytwo/ASUS-B360-H-Hackintosh/blob/master/images/IMG_02.jpg)
-![image](https://github.com/junetwentytwo/ASUS-B360-H-Hackintosh/blob/master/images/IMG_03.jpg)
-![image](https://github.com/junetwentytwo/ASUS-B360-H-Hackintosh/blob/master/images/IMG_04.jpg)
-![image](https://github.com/junetwentytwo/ASUS-B360-H-Hackintosh/blob/master/images/IMG_05.jpg)
-![image](https://github.com/junetwentytwo/ASUS-B360-H-Hackintosh/blob/master/images/IMG_06.jpg)
-![image](https://github.com/junetwentytwo/ASUS-B360-H-Hackintosh/blob/master/images/IMG_07.jpg)
+![image](https://github.com/junetwentytwo/ASUS-B360-Hackintosh/blob/master/images/IMG_01.jpg)
+![image](https://github.com/junetwentytwo/ASUS-B360-Hackintosh/blob/master/images/IMG_02.jpg)
+![image](https://github.com/junetwentytwo/ASUS-B360-Hackintosh/blob/master/images/IMG_03.jpg)
+![image](https://github.com/junetwentytwo/ASUS-B360-Hackintosh/blob/master/images/IMG_04.jpg)
+![image](https://github.com/junetwentytwo/ASUS-B360-Hackintosh/blob/master/images/IMG_05.jpg)
+![image](https://github.com/junetwentytwo/ASUS-B360-Hackintosh/blob/master/images/IMG_06.jpg)
+![image](https://github.com/junetwentytwo/ASUS-B360-Hackintosh/blob/master/images/IMG_07.jpg)
